@@ -37,9 +37,6 @@ tab
 #Find out how long your list of words is using the length function
 length(words)
 
-
-
-
 #Tokenize the paragraph in the “text” variable into sentences and pull out just the list
 sentences <- tokenize_sentences(text)
 sentences <- sentences[[1]]
