@@ -5,7 +5,6 @@
 #In depth dive into Text analysis: https://programminghistorian.org/en/lessons/basic-text-processing-in-r
 
 #     NOTE that Rstudio Cloud was used : rstudio.cloud  
-
 #Install packages
 install.packages("tidyverse")
 install.packages("tokenizers")
