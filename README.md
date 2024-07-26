@@ -1,4 +1,7 @@
 # Text Analysis with R
+![image](https://github.com/user-attachments/assets/82c4ed86-5672-4292-b208-6b07e73e24a3)
+
+[Image Source](https://www.datanami.com/2016/11/21/text-analytics-machine-learning-virtuous-combination/)
 
 This project demonstrates basic text analysis using R, covering tokenization, word frequency analysis, and filtering of stopwords. The analysis is applied to the text of "Frankenstein" by Mary Shelley. The project aims to provide a practical introduction to Natural Language Processing (NLP) concepts and techniques using R.
 
