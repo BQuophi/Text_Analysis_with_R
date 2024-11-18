@@ -5,7 +5,7 @@
 
 This project demonstrates basic text analysis using R, covering tokenization, word frequency analysis, and filtering of stopwords. The analysis is applied to the text of "Frankenstein" by Mary Shelley. The project aims to provide a practical introduction to Natural Language Processing (NLP) concepts and techniques using R.
 
-## Table of Contents
+## Table of Contents 
 
 1. [Introduction](#introduction)
 2. [Installation](#installation)
