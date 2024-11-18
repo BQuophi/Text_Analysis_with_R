@@ -48,7 +48,7 @@ install.packages("tokenizers")
 
 ### Loading and Tokenizing Text
 
-First, we load the necessary packages and create a variable containing a sample text.
+First, we load the necessary packages and create a variable containing a sample text. 
 
 ```R
 library(tokenizers)
